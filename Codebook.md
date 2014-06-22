@@ -11,7 +11,7 @@
 
 ###These signals were used to estimate variables of the feature vector for each pattern: '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-### The following variables denotes the average of the data value observed per subject ID and activity name combination. 
+### The following variables denotes the average of the mean and standard deviation data values observed for each feature per subject ID and activity name combination. 
 
 * Avg_tBodyAcc-mean()-X":               
 * Avg_tBodyAcc-mean()-Y"               
